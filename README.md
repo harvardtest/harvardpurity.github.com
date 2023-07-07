@@ -1,3 +1,2 @@
-# ricepurity.github.com
-Rice Purity Test
-Heyo
+# harvardtest.github.com
+Harvard-Specific Rice Purity Test
